@@ -1,0 +1,11 @@
+# cellsociety 
+
+Refactoring the Code
+--
+
+Based on the results from style check and AnalytiX we have solved all the magic number issue by changing them to be the constant variables. 
+
+We have aslo factor all the duplicated codes to be a separate function.
+
+We are planning to move initSimulation methods from CA class to SceneManager class. 
+

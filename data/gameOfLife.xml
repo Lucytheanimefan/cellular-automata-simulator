@@ -1,0 +1,14 @@
+<root>
+<title> 
+	game of life
+</title>
+<initialType>readInitialStatesFromXML</initialType>
+
+<dimensionx>3</dimensionx>
+
+<dimensiony>3</dimensiony>
+
+<initialState>1 1 2 1 2 1 1 1 1</initialState>
+	<width>500</width>
+	<height>500</height></root>
+

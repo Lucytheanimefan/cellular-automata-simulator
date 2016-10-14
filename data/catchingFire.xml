@@ -1,0 +1,14 @@
+<root>
+<title> 
+	Catching Fire
+</title>
+<initialType>readInitialStatesFromXML</initialType>
+
+<width>500</width>
+	<height>500</height>
+	<dimensionx>3</dimensionx>
+	<dimensiony>3</dimensiony>
+
+<initialState>0 1 2 1 1 2 2 1 1</initialState>
+	<probability>0.5</probability>
+	</root>

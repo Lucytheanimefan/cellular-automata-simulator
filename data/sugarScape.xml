@@ -1,0 +1,14 @@
+<root>
+<title>Sugar Scape</title>
+
+<dimensionx>3</dimensionx>
+<initialType>readInitialStatesFromXML</initialType>
+
+
+<dimensiony>3</dimensiony>
+
+<initialState>0 0 0 0 1 0 1 0 0</initialState>
+<sugarMetabolism>0.3</sugarMetabolism>
+<initialSugar>2.0</initialSugar>
+	<width>500</width>
+	<height>500</height></root>

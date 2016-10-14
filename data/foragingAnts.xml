@@ -1,0 +1,22 @@
+<root>
+<title> 
+	Foraging Ants
+</title>
+<initialType>readInitialStatesFromXML</initialType>
+
+
+<dimensionx>3</dimensionx>
+
+
+<dimensiony>3</dimensiony>
+<homeLocationX>0</homeLocationX>
+<homeLocationY>0</homeLocationY>
+<foodLocationX>3</foodLocationX>
+<foodLocationY>3</foodLocationY>
+<maxHomePheromones> 100.0</maxHomePheromones>
+<maxFoodPheromones> 100.0</maxFoodPheromones>
+
+<initialState>3 0 0 0 1 0 0 0 2</initialState>
+
+<width>500</width>
+<height>500</height></root>
